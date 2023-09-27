@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, World! 👋
 
 I'm Josh, a former investment analyst turned passionate coder with a mission to create value through technology. With a background in finance and a newfound love for coding, I'm on a journey to make a positive impact in the world through the lens of technology.
