@@ -8,16 +8,13 @@ When I'm not at my desk, I enjoy playing soccer, golfing, working out, and prett
 
 
 ## 🛠️ **Tech Stack**
-- 🚀 **Languages:** JavaScript, Python, HTML, CSS, SQL, Ruby
-- 🛠️ **Frameworks & Libraries:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
-- 📊 **Other:** Git/GitHub, Figma, Microsoft Office Suite, Google Maps API, AWS S3, Alpha Vantage API, Recharts.js, Bloomberg Terminal
+- 🚀 **<u>Languages</u>:** JavaScript, Python, HTML, CSS, SQL, Ruby
+- 🛠️ **<u>Frameworks & Libraries</u>:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
+- 📊 **<u>Other</u>:** Git/GitHub, Figma, Microsoft Office Suite, Google Maps API, AWS S3, Alpha Vantage API, Recharts.js, Bloomberg Terminal
 
 ## 📫 **Let's Connect**
 - 📧 Reach out to me at joshapascual@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josh-pascual)
-
-
-Thank you for visiting my GitHub profile! Let's innovate, collaborate, and make the world a better place through code. 🚀
 
 
 <!--
