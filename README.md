@@ -6,12 +6,12 @@ I'm adaptable, well-organized, and a master of leveraging the latest technologie
 
 When I'm not at my desk, I enjoy playing soccer, golfing, working out, and pretty much anything that involves exercise. Big foodie. Huge Niners fan. Massive Arsenal supporter.
 
-### 🛠️ **Tech Stack**
+## 🛠️ **Tech Stack**
 - 🚀 **Languages:** JavaScript, Python, HTML, CSS, SQL, Ruby
 - 🛠️ **Frameworks & Libraries:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
 - 📊 **Other:** Git/GitHub, Figma, Microsoft Office Suite, Google Maps API, AWS S3, Alpha Vantage API, Recharts.js, Bloomberg Terminal
 
-### 📫 **Let's Connect**
+## 📫 **Let's Connect**
 - 📧 Reach out to me at joshapascual@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josh-pascual)
 
