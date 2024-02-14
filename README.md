@@ -8,8 +8,8 @@ When I'm not at my desk, I enjoy playing soccer, golfing, working out, and prett
 
 
 ## 🛠️ **Tech Stack**
-- 🚀 **<u>Languages</u>:** JavaScript, Python, HTML, CSS, SQL, Ruby
-- 🛠️ **<u>Frameworks & Libraries</u>:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
+- 🚀 **<u>Languages</u>:** JavaScript, Python, HTML, CSS, SQL
+- 🛠️ **<u>Frameworks & Libraries</u>:** Node.js, React, Redux, Tailwind, Flask, Express.js, SQLAlchemy, Alembic, Sequelize, PostgreSQL
 - 📊 **<u>Other</u>:** Git/GitHub, Figma, Microsoft Office Suite, Google Maps API, AWS S3, Alpha Vantage API, Recharts.js, Bloomberg Terminal
 
 ## 📫 **Let's Connect**
