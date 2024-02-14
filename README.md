@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-I'm a full-stack software engineer with a Bachelors in finance. Upon graduation, I worked as an Investment Analyst for a consulting/wealth management overseeing $1.2 billion AUM. Took me about two years to realize I wanted to pursue a career that promotes creativity and provides opportunity have a greater impact. And this is where my coding journey began.
+I'm a full-stack software engineer with a Bachelors in finance. Upon graduation, I worked as an Investment Analyst for a consulting/wealth management overseeing $1.2 billion AUM. Took me about two years to realize I wanted to pursue a career that combines technical skill with creative ability, while also providing the opportunity have a greater impact. And this is where my coding journey began.
 
 I'm adaptable, well-organized, and a master of leveraging the latest technologies and frameworks to streamline development processes. With a keen eye for detail and a passion for continuous learning, I thrive in collaborative environments where I can contribute my expertise to drive innovation and deliver exceptional results that create a positive impact.
 
