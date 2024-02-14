@@ -6,6 +6,7 @@ I'm adaptable, well-organized, and a master of leveraging the latest technologie
 
 When I'm not at my desk, I enjoy playing soccer, golfing, working out, and pretty much anything that involves exercise. Big foodie. Huge Niners fan. Massive Arsenal supporter.
 
+
 ## 🛠️ **Tech Stack**
 - 🚀 **Languages:** JavaScript, Python, HTML, CSS, SQL, Ruby
 - 🛠️ **Frameworks & Libraries:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
@@ -14,6 +15,7 @@ When I'm not at my desk, I enjoy playing soccer, golfing, working out, and prett
 ## 📫 **Let's Connect**
 - 📧 Reach out to me at joshapascual@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josh-pascual)
+
 
 Thank you for visiting my GitHub profile! Let's innovate, collaborate, and make the world a better place through code. 🚀
 
