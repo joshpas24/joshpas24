@@ -1,24 +1,15 @@
 # Hello, World! 👋
 
-I'm Josh, a former investment analyst turned passionate coder with a mission to create value through technology. With a background in finance and a newfound love for coding, I'm on a journey to make a positive impact in the world through the lens of technology.
+I'm a full-stack software engineer with a Bachelors in finance. Upon graduation, I worked as an Investment Analyst for a consulting/wealth management overseeing $1.2 billion AUM. Took me about two years to realize I wanted to pursue a career that had more opportunity to be creative and have a positive impact. And this is where my coding journey began.
 
-📚 **Background**
-- 🎓 Graduated with a degree in Finance
-- 💼 Worked as an Investment Analyst
+I'm adaptable, well-organized, and a master of leveraging the latest technologies and frameworks to streamline development processes. With a keen eye for detail and a passion for continuous learning, I thrive in collaborative environments where I can contribute my expertise to drive innovation and deliver exceptional results that create a positive impact.
 
-🚀 **My Journey into Coding**
-- 🌱 Currently learning and exploring new technologies every day
-- 💡 Enthusiastic about problem-solving and building innovative solutions
-- 🤖 Interested in machine learning, data analysis, and financial technology
+When I'm not at my desk, I enjoy playing soccer, golfing, working out, and pretty much anything that involves exercise. Big foodie. Huge Niners fan. Massive Arsenal supporter.
 
 🛠️ **Tech Stack**
-- 💻 Proficient in JavaScript, Python, HTML, CSS
-- 🌐 Familiar with web development frameworks like React, Redux, Express.js, Flask
-
-🤝 **Collaboration**
-- 👥 I love working with positive and driven individuals
-- 🌐 Open to collaboration on projects that bring value to a larger community
-- 💬 Let's connect and create something amazing together!
+- 🚀 **Languages:** JavaScript, Python, HTML, CSS, SQL, Ruby
+- 🛠️ **Frameworks & Libraries:** Node.js, React, Redux, Tailwind, Flask, Express.js, Rails, SQLAlchemy, Alembic, Sequelize, PostgreSQL
+- 📊 **Other:** Git/GitHub, Figma, Microsoft Office Suite, Google Maps API, AWS S3, Alpha Vantage API, Recharts.js, Bloomberg Terminal
 
 📫 **Let's Connect**
 - 📧 Reach out to me at joshapascual@gmail.com
