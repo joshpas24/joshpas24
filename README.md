@@ -16,7 +16,7 @@ When I'm not at my desk, I enjoy playing soccer, golfing, working out, and prett
 - 📧 Reach out to me at joshapascual@gmail.com
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/josh-pascual)
 
-[![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshpas24)](https://github.com/joshpas24/github-readme-stats)
+<!-- [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshpas24)](https://github.com/joshpas24/github-readme-stats) -->
 
 <!--
 **joshpas24/joshpas24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
